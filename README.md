@@ -57,8 +57,3 @@ I'm a FrontEnd Developer, currently studying to be a FullStack Developer! Also, 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diimartell&theme=radical&show_icons=true&hide_border=false&layout=compact" />
 </a>
-
-
-
-<hr>
-
