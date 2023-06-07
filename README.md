@@ -1,6 +1,6 @@
 # [Ingrid Silva] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=abdbe3&size=35&center=true&vCenter=true&width=1000&lines=Hello!+Welcome+to+Ingrid's+Github,+A.K.A.+diimartell)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=abdbe3&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+Ingrid's+Github,+A.K.A.+diimartell)](https://git.io/typing-svg)
 
 <div align="center">
   
