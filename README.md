@@ -1,6 +1,6 @@
 # [Ingrid Silva] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=abdbe3&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+Ingrid's+Github,+A.K.A.+diimartell)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=abdbe3&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <div align="center">
   
@@ -18,7 +18,7 @@
 <h2 >About Me</h2>
 
 - 🤔 I'm always curious and excited to learn something new!
-- 🎓 Studying Systems Development Technician
+- 👩‍💻 Full Stack Developer and Product Manager
 - 💬 You can ask me about: <strong>Books, Movies, TV Series, Doramas and RPG! </strong>
 - 📣 We can talk in: <strong>English (advanced) and French (basic)</strong>
 
