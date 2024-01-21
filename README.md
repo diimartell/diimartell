@@ -1,6 +1,4 @@
-# [Ingrid Silva] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30px">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=abdbe3&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cutive+Mono&size=40&pause=1000&color=E066FF&random=false&width=1000&height=115&lines=Hello+and+welcome!!;My+name+is+Ingrid+Silva.;Full+Stack+Developer+and+Project+Manager.)](https://git.io/typing-svg)
 
 <div align="center">
   
