@@ -8,12 +8,16 @@
 <br>
 
 
-<h1 align="center">About Me</h1>
+<h1 align="center">Sobre Mim</h1>
 
-- 🤔 I'm always curious and excited to learn something new!
-- 👩‍💻 Full Stack Developer and Product Manager
-- 💬 You can ask me about: <strong>Books, Movies, TV Series, Doramas and RPG! </strong>
-- 📣 We can talk in: <strong>English (advanced) and French (basic)</strong>
+<ul align="left">
+  <li>🎓 Sou formada como Técnica em Desenvolvimento de Sistemas, e fiz cursos de Programação Full Stack, Metodologias Ágeis, Gestão para Resultados, dentre outros.</li>
+  <li>💼 Atuo de forma voluntária como Desenvolvedora Full Stack na Café & Tech, e como Project Manager na Comunidade IV. Além disso, atuo de forma voluntária em eventos e hackathons em minha cidade.</li>
+  <li>💻 Participei de programas como Oracle Next Education, Potência Tech powered by iFood, Projeto Instituto NU + Descomplica</li>
+  <li>🧠 Tenho conhecimento em programação com HTML, CSS, JavaScript, React.js, Node.js, além de linguagens de programação como Java e Python. Também possuo conhecimentos nas metodologias ágeis Scrum, Kanban e Sprint.</li>
+  <li>🗂️ Possuo inglês avançado e francês, espanhol e italiano básicos</li>
+  <li>📚 Apaixonada por livros, cinema, RPG e tarot</li>
+</ul>
 
 <br>
 
