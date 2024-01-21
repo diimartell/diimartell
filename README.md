@@ -7,6 +7,16 @@
 
 <br>
 
+
+<h1 align="center">About Me</h1>
+
+- 🤔 I'm always curious and excited to learn something new!
+- 👩‍💻 Full Stack Developer and Product Manager
+- 💬 You can ask me about: <strong>Books, Movies, TV Series, Doramas and RPG! </strong>
+- 📣 We can talk in: <strong>English (advanced) and French (basic)</strong>
+
+<br>
+
 <div align="center">
   
   <p align='center'>  
@@ -20,14 +30,7 @@
   
 </div>
 
-<h2 >About Me</h2>
-
-- 🤔 I'm always curious and excited to learn something new!
-- 👩‍💻 Full Stack Developer and Product Manager
-- 💬 You can ask me about: <strong>Books, Movies, TV Series, Doramas and RPG! </strong>
-- 📣 We can talk in: <strong>English (advanced) and French (basic)</strong>
-
-<hr>
+<br>
 
 ## Current Stacks:
 
