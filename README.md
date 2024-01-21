@@ -1,5 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cutive+Mono&size=40&pause=1000&color=E066FF&random=false&width=1000&height=115&lines=Hello+and+welcome!!;My+name+is+Ingrid+Silva.;Full+Stack+Developer+and+Project+Manager.)](https://git.io/typing-svg)
 
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/njYrp176NQsHS/giphy.gif?cid=ecf05e47yjga9ip8rf93bfb8wu7lhhqcdfpunaqsf7za2fkj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="250">
+</div>
+
+<br>
+
 <div align="center">
   
   <p align='center'>  
