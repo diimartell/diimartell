@@ -11,12 +11,12 @@
 <h1 align="center">Sobre Mim</h1>
 
 <ul align="left">
-  <li>🎓 Sou formada como Técnica em Desenvolvimento de Sistemas, e fiz cursos de Programação Full Stack, Metodologias Ágeis, Gestão para Resultados, dentre outros.</li>
-  <li>💼 Atuo de forma voluntária como Desenvolvedora Full Stack na Café & Tech, e como Project Manager na Comunidade IV. Além disso, atuo de forma voluntária em eventos e hackathons em minha cidade.</li>
+  <li>🎓 Estudante de Análise e Desenvolvimento de Sistemas, formada como Técnica em Desenvolvimento de Sistemas e também como Programadora Full Stack.</li>
+  <li>💼 Atuo voluntariamente como Project Manager e Community Leader na Comunidade IV. Além disso, atuo de forma voluntária em eventos e hackathons em minha cidade.</li>
   <li>💻 Participei de programas como Oracle Next Education, Potência Tech powered by iFood, Projeto Instituto NU + Descomplica</li>
-  <li>🧠 Tenho conhecimento em programação com HTML, CSS, JavaScript, React.js, Node.js, além de linguagens de programação como Java e Python. Também possuo conhecimentos nas metodologias ágeis Scrum, Kanban e Sprint.</li>
-  <li>🗂️ Possuo inglês avançado e francês, espanhol e italiano básicos</li>
-  <li>📚 Apaixonada por livros, cinema, RPG e tarot</li>
+  <li>🧠 Tenho conhecimento em programação com HTML, CSS, Bootstrap, JavaScript, React.js, Node.js, além de linguagens de programação como Java e Python. Também possuo conhecimentos nas metodologias ágeis Scrum, Kanban e Sprint.</li>
+  <li>🗂️ Possuo inglês avançado e espanhol e francês básicos</li>
+  <li>📚 Apaixonada por música, livros, cinema, RPG e tarot</li>
 </ul>
 
 <br>
