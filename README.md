@@ -43,8 +43,8 @@
 # :octocat: GitHub Stats 
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diimartell&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Github status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diimartell&theme=rose&show_icons=true&hide_border=false&count_private=true" alt="Github status" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diimartell&theme=radical&show_icons=true&hide_border=false&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diimartell&theme=rose&show_icons=true&hide_border=false&layout=compact" />
 </a>
