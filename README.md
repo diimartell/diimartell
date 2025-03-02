@@ -7,7 +7,6 @@
 
 <br>
 
-
 <h1 align="center">Sobre Mim</h1>
 
 <ul align="left">
