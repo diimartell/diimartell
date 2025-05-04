@@ -12,7 +12,7 @@
 <ul align="left">
   <li>🎓 Estudante de Análise e Desenvolvimento de Sistemas, possuo formação concluída como Técnica em Desenvolvimento de Sistemas.</li>
   <li>💼 Atuo voluntariamente como Community Manager da comunidade Virada no Café, e também represento a comunidade Mulheres e Tecnologia no meu estado. Além disso, atuo de forma voluntária em eventos de tecnologia e hackathons em minha cidade, seja como mentora de tecnologia e projetos, ou na equipe de organização dos eventos.</li>
-  <li>💻 Participei de programas como Oracle Next Education, Potência Tech powered by iFood, Projeto Instituto NU + Descomplica, dentre outros. Aprendizado e compartilhamento de conhecimentos, para mim, nunca é demais!</li>
+  <li>💻 Participei de programas como Oracle Next Education, Potência Tech powered by iFood, Desenvolve Boticário, dentre outros. Aprendizado e compartilhamento de conhecimentos, para mim, nunca é demais!</li>
   <li>🗂️ Possuo inglês avançado e espanhol e francês básicos</li>
   <li>📚 Apaixonada por música, livros, cinema, RPG e tarot</li>
 </ul>
